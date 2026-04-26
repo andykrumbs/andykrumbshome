@@ -8,7 +8,7 @@
 body{
     font-family:Arial, Helvetica, sans-serif;
     min-height:100vh;
-    background: url(images/tree\ background.png) no-repeat center center/cover;
+    background: url(images/tree_background.png) no-repeat center center/cover;
 }
 
 .navbar{
